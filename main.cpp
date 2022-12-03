@@ -4,8 +4,8 @@ using namespace std;
 int main(){
   int a;
   bool b;
-  cin>>a
-    b=primki(a);
+  cin>>a;
+    b=primi(a);
   
   if (b==true)
     cout<<"numero primo"<<endl;
