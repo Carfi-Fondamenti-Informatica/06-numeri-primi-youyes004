@@ -5,7 +5,7 @@ int div=1, conta 0;
   if (n%div==0){
   conta++;
   }
- div++
+ div++;
   }
   if (conta==1){
   return true;
